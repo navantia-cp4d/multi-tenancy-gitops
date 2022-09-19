@@ -28,6 +28,7 @@ spec:
       - name: spec.license.license
         value: "Enterprise"
       - name: spec.storageClass
+        value: "ibmc-file-gold-gid"
   syncPolicy:
     automated:
       prune: true
